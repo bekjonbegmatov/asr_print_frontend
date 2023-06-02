@@ -1,0 +1,4 @@
+.inven{
+    display: grid;
+    grid-template-columns: auto auto;
+}

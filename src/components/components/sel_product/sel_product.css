@@ -1,0 +1,26 @@
+.product_list_table{
+    margin-left: 1.5%;
+    margin-top: 20px;
+}
+#heade{
+    color: #F6C344;
+    font-size: larger;
+    font-weight: bolder;
+}
+.add{
+    color: red;
+    font-size: larger;
+    cursor: pointer;
+    text-align: center;
+}
+.table{
+    width: 100%;
+}
+.trash{
+    margin-top: 2px;
+}
+#main_text{
+    text-align: center;
+    font-size: 30px;
+    color: #F6C344;
+}

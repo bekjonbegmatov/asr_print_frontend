@@ -1,0 +1,25 @@
+.trash{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.button_add_product{
+    text-align: center;
+}
+.poisk{
+    margin-left: -100px;
+    width: 200px;
+    margin-right: 10px;
+}
+.poisk:hover{
+    animation-name: dc_wallet; 
+    animation-duration: 1.5s;
+    margin-left: -200px;
+
+}
+
+@keyframes dc_wallet {
+    0%{margin-left: -100px;}
+    100%{margin-left: -200px;}
+}

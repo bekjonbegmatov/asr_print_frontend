@@ -1,0 +1,16 @@
+.card {
+  /* display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70px;
+    padding: 25px; */
+  width: 600px;
+  padding: 5px;
+  border-radius: 5px;
+  /* color: #ededed; */
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+.text-primary-p{
+  color: rgb(117, 117, 117);
+}

@@ -1,0 +1,26 @@
+.card {
+  /* display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70px;
+    padding: 25px; */
+  width: 90%;
+  padding: 5px;
+  border-radius: 5px;
+  background: #ffffff;
+  box-shadow: 5px 5px 13px #ededed, -5px -5px 13px #ffffff;
+}
+
+.product_end {
+  color: red;
+  font-size: large;
+  font-weight: bolder;
+}
+
+#edit {
+  color: green;
+}
+
+#delite {
+  color: red;
+}
